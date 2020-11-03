@@ -1,0 +1,13 @@
+body {
+    background-image: url('bgcloud2.png');
+    background-size: 100%;
+
+}
+div.id1 {
+    display: table;
+    margin: 0 auto;
+}
+
+body {
+    padding-bottom: 50px;
+}
