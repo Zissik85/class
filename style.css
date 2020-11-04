@@ -3,6 +3,7 @@ body {
   background-size: 120%;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  font: Itim;
 }
 div.id1 {
   display: table;
