@@ -1,6 +1,8 @@
 body {
   background-image: url("bgcloud2.png");
   background-size: 120%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 div.id1 {
   display: table;
