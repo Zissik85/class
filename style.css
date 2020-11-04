@@ -3,10 +3,10 @@ body {
   background-size: 120%;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  font-family: 'Itim', cursive;
-  }
+  font-family: "Itim", cursive;
 }
-div.id1 {
+
+.div1 {
   display: table;
   margin: 0 auto;
 }
@@ -31,4 +31,3 @@ h1 {
 .paragraph {
   text-align: center;
 }
-
