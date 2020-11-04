@@ -6,14 +6,10 @@
   </head>
 
   <body>
-    <p><a href="#last">Click here to jump to bottom of page</a></p>
+    <p><a href="#music">Click here to jump to music player</a></p>
     <header>
       <h1>About Myself</h1>
       <article>
-        <audio controls loop>
-          <source src="Somewhere.mp3" type="audio/mpeg" volume="5">
-          <p>If you can read this, your browser does not support the audio element.</p>
-          </audio>
         <p class="paragraph">
           &nbsp; My name is Mike, I am thirty-four and I am married and have two
           boys.<br />
@@ -63,5 +59,11 @@
       <input type="email" placeholder="Email Address" /><br />
       <input type="submit" />
     </div>
+    <br>
+    <br>
+    <audio id="music" controls loop>
+      <source src="Somewhere.mp3" type="audio/mpeg">
+      <p>If you can read this, your browser does not support the audio element.</p>
+      </audio>
   </body>
 </html>
