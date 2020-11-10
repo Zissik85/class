@@ -3,6 +3,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   margin-top: 1px;
+  padding-bottom: 50px;
 }
 
 ul {
