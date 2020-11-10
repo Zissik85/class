@@ -10,7 +10,6 @@ ul {
   overflow: hidden;
   font-weight: bold;
   padding-left: 561px;
-  margin-right: auto;
   width: 50%;
   padding-right: 39px;
   margin-top: 0;
@@ -54,9 +53,7 @@ h1 {
 }
 
 #top {
-  margin: 0px;
-  padding-top: 2px;
-  padding-bottom: 2px;
-
-  background-color: wheat;
+  margin: auto;
+  padding: auto;
+  border: 5px solid wheat;
 }
