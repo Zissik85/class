@@ -29,9 +29,7 @@ li a {
   font-size: 22px;
 }
 
-a:link {
-  color: rgb(51, 99, 189);
-}
+a:link,
 a:visited {
   color: rgb(51, 99, 189);
 }
@@ -41,7 +39,7 @@ a:hover {
 }
 
 h1 {
-  margin-bottom: 0;
+  margin-bottom: -9px;
   padding-bottom: 0;
   display: block;
   margin-left: auto;
