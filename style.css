@@ -1,0 +1,18 @@
+#header {
+  background-color: black;
+  padding: 0px;
+  margin: 0px;
+  height: 90px;
+  position: fixed;
+  top: 0px;
+  position: relative;
+}
+
+#navbar {
+  background-color: black;
+  list-style-type: none;
+  color: red;
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+}
